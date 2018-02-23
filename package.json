@@ -1,0 +1,23 @@
+{
+  "name": "ph-rpc",
+  "version": "0.4.1",
+  "description": "A Pornhub client with integrated discord-rpc",
+  "main": "src/main.js",
+  "scripts": {
+    "example": "electron src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somefajita/ph-rpc.git"
+  },
+  "author": "Anime Catgirl#0001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somefajita/ph-rpc/issues"
+  },
+  "homepage": "https://github.com/somefajita/ph-rpc#readme",
+  "dependencies": {
+    "discord-rpc": "github:discordjs/RPC",
+    "electron": "^1.8.2"
+  }
+}

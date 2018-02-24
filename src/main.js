@@ -21,7 +21,8 @@ let createWindow = () => {
     },
     icon: path.join(__dirname, 'favicon.ico'),
   });
-
+  menu.setMenu(null);
+  mainWindow.setMenuBarVisibility(false);
   mainWindow.loadURL('https://www.pornhub.com/');
 
   mainWindow.on('closed', () => {

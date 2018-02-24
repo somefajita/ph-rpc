@@ -1,7 +1,7 @@
 {
   "name": "ph-rpc",
   "version": "0.4.1",
-  "description": "A Pornhub client with integrated discord-rpc",
+  "description": "A Pornhub web-app with integrated discord-rpc",
   "main": "src/main.js",
   "scripts": {
     "example": "electron src/main.js"

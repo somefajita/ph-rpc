@@ -1,2 +1,2 @@
 # ph-rpc
-A discord-rpc inspired Pornhub™ client.
+A discord-rpc inspired Pornhub™ web-app.

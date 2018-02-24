@@ -18,6 +18,7 @@
   "homepage": "https://github.com/somefajita/ph-rpc#readme",
   "dependencies": {
     "discord-rpc": "github:discordjs/RPC",
-    "electron": "^1.8.2"
+    "electron": "^1.8.2",
+    "moment": "^2.20.1"
   }
 }

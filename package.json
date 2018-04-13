@@ -1,6 +1,6 @@
 {
   "name": "ph-rpc",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "A Pornhub web-app with integrated discord-rpc",
   "main": "src/main.js",
   "scripts": {
